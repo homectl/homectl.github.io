@@ -18,12 +18,14 @@ which is once every 6 seconds for about half a second when it performs a
 measurement.
 
 It has a reflective chamber in the top part of the sensor in which a far infra
-red (i.e. heat) emitter shines. This emitter needs around 3 minutes to heat up
-to a stable temperature. We can see this chamber when removing the top-most
-layer of the sensor. I had to do this with my Dremel 3000 and a cutting disc,
-because this sensor is glued shut and the glue didn't melt at 300C from my hot
-air station. Some other parts of the sensor did start to melt, so I stopped at
-that temperature.
+red (i.e. heat, or more precisely, electromagnetic radiation in the
+[15 μm wavelength band](http://www.ces.fau.edu/nasa/module-2/how-greenhouse-effect-works.php))
+emitter shines. This emitter needs around 3 minutes to heat up to a stable
+temperature. We can see this chamber when removing the top-most layer of the
+sensor. I had to do this with my Dremel 3000 and a cutting disc, because this
+sensor is glued shut and the glue didn't melt at 300C from my hot air station.
+Some other parts of the sensor did start to melt, so I stopped at that
+temperature.
 
 ![Sensor](/images/MH-Z19B/PXL_20210110_190417458.jpg)
 
