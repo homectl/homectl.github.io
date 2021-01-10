@@ -14,7 +14,8 @@ what's inside.
 This is a CO2 sensor that uses infrared light absorption to detect the
 concentration of CO2 in the atmosphere. It is fairly precise and is the sensor
 built into the Temtop P1000 air quality meter. It consumes around 130mA at peak,
-which is once every 6 seconds when it performs a measurement.
+which is once every 6 seconds for about half a second when it performs a
+measurement.
 
 It has a reflective chamber in the top part of the sensor in which a far infra
 red (i.e. heat) emitter shines. This emitter needs around 3 minutes to heat up
