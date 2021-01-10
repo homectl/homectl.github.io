@@ -1,1 +1,35 @@
+title: Homectl tech blog
+description: Blog for Homectl
+github_username: pippijn
+
+# Email and twitter are optional:
+email: pip88nl@gmail.com
+twitter_username: pippijn
+
+# Set this to true to get LaTeX math equation support
+#use_math:
+
+# Add your Google Analytics ID here if you have one and want to use it
+#google_analytics:
+
+# Theme and plugins
 theme: jekyll-theme-modernist
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-octicons
+  - jekyll-github-metadata
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  math_engine: katex
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouge
