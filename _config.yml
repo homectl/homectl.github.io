@@ -13,7 +13,7 @@ twitter_username: pippijn
 #google_analytics:
 
 # Theme and plugins
-theme: jekyll-theme-modernist
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-gist
