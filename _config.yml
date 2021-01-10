@@ -1,5 +1,6 @@
 title: Homectl tech blog
-description: Blog for Homectl
+description: Ramblings of a Home Hardware Hobbyist
+author: Pippijn van Steenhoven
 github_username: pippijn
 
 # Email and twitter are optional:
@@ -21,7 +22,7 @@ plugins:
   - jekyll-github-metadata
 
 titles_from_headings:
-  enabled:     true
+  enabled: true
   strip_title: true
   collections: true
 
