@@ -5,8 +5,9 @@ date: 2020-01-10 20:50:23 +0000
 # Teardown of some air quality sensors
 
 Recently, I broke two of my sensors (an expensive mistake involving USB-PD): the
-MH-Z19B CO2 sensor and the PMS5003T combined particulate matter sensor. Of
-course, I took the opportunity to dismantle them and see what's inside.
+MH-Z19B CO2 sensor and the PMS5003T combined particulate matter and temperature
+and humidity sensor. Of course, I took the opportunity to dismantle them and see
+what's inside.
 
 ## Winsen MH-Z19B
 
