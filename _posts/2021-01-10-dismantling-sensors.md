@@ -12,6 +12,9 @@ inside.
 
 ## Winsen MH-Z19B
 
+[Banggood](https://uk.banggood.com/MH-Z19B-Upgrade-Version-0-5000PPM-Infrared-CO2-Sensor-For-CO2-Indoor-Air-Quality-Monitor-UART-or-PWM-p-1094463.html)
+[Aliexpress](https://www.aliexpress.com/item/32823821163.html)
+
 This is a CO2 sensor that uses infrared light absorption to detect the
 concentration of CO2 in the atmosphere. It is fairly precise and is the sensor
 built into the Temtop P1000 air quality meter. It consumes around 130mA at peak,
@@ -58,6 +61,9 @@ The MH-Z19B sensor can not easily be disassembled and reassembled. If you break
 it, it's broken forever.
 
 ## Plantower PMS5003T
+
+[Banggood](https://uk.banggood.com/PMS5003-PM2_5-Air-Particle-Dust-Sensor-Laser-Digital-Output-Module-High-Precision-Air-Haze-Detection-Smart-Home-Device-p-1553818.html)
+[Aliexpress](https://www.aliexpress.com/item/4000036196650.html)
 
 This is a PM0.3, PM0.5, PM2.5, and PM10 sensor. It works with laser scattering:
 a laser is aimed over a sensor, and small particles bend the light towards the
