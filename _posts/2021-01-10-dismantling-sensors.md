@@ -6,8 +6,9 @@ date: 2020-01-10 20:50:23 +0000
 
 Recently, I broke two of my sensors (an expensive mistake involving USB-PD that
 also broke two of my voltage regulators): the MH-Z19B CO2 sensor and the
-PMS5003T combined particulate matter and temperature and humidity sensor. Of
-course, I took the opportunity to dismantle them and see what's inside.
+PMS5003T combined particulate matter (fine dust) and temperature and humidity
+sensor. Of course, I took the opportunity to dismantle them and see what's
+inside.
 
 ## Winsen MH-Z19B
 
