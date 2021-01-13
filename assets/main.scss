@@ -9,3 +9,13 @@
   margin-right: auto;
   display: block;
 }
+
+// Add image before the site title. Minima doesn't support this, so we hack it
+// with CSS.
+a.site-title:before {
+  content: "";
+  background: url(/images/purplebee.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding-right: 2em;
+}
