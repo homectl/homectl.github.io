@@ -15,9 +15,10 @@ As a refresher, this is a CO2 sensor that uses NDIR (non-dispersive infrared) to
 detect the concentration of CO2 in the atmosphere. Every 6 seconds, it performs
 a measurement, and in order to do so it needs a relatively accurate temperature
 measurement. This is because the measurement method for CO2 used is generating
-some heat, causing far infrared radiation to be emitted through black-body
-radiation, which is then bounced around a chamber and measured by an IR sensor,
-which is much like one in a thermal imaging camera or a motion sensor.
+some heat, causing [far infrared](https://en.wikipedia.org/wiki/Far_infrared)
+radiation to be emitted through black-body radiation, which is then bounced
+around a chamber and measured by an IR sensor, which is much like one in a
+thermal imaging camera or a motion sensor.
 
 ## First attempt: Univariate linear functions
 
