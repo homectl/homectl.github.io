@@ -85,3 +85,18 @@ I wrote, and an algorithm from
 It is now
 [used](https://github.com/homectl/homectl/blob/514c9035a80152d546ed851b582719d57ed29111/src/CO2.cpp#L8)
 to correctly return CO2 values that agree with my reference sensor.
+
+Is this solution correct? I don't know. The temperature sensor inside is
+probably a thermistor, which has a logarithmic sensitivity curve.
+
+![Thermistor Curve](https://i.stack.imgur.com/YUqJF.jpg)
+
+It's possible that the function seems linear only in the narrow range I measured
+things in (much like how Earth looks flat (no, I'm not going to hyperlink to
+flat earthers here) when looking at a narrow slice of its surface), but is
+actually logarithmic in a wider range. If that's the case, the problem is pretty
+easy to solve still, even with the ordinary least-squares method. I'd just make
+the logarithm of a value one of the variables and compute its weight. In fact, I
+could do that right now to see whether the function is in fact logarithmic, but
+for the temperature range that's relevant to me, the function is linear enough
+and now I'll move on to the next thing :).
